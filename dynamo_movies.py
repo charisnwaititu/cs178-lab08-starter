@@ -1,6 +1,7 @@
 # CS178 - Lab 8 Starter
 # Lab 8A - Charis Waititu
 # Version 2
+# This work was not my work :)
 
 
 REGION = "us-east-1"
