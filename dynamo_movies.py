@@ -1,5 +1,7 @@
 # CS178 - Lab 8 Starter
-# Lab 8 - Your Name
+# Lab 8A - Charis Waititu
+# Version 2
+
 
 REGION = "us-east-1"
 TABLE_NAME = "Movies"
